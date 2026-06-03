@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+  <title>The Meme Man Game</title>
+  <link rel=stylesheet href="/The Meme Man Game CSS">
+</head>
+<body>
+   <h1 class = firsttext>The</h1>
+<h1 class = secondtext>Meme</h1>
+<h1 class = thirdtext>Man</h1>
+<h1 class = fourthtext>Game</h1>
+<p class = yaptext>Meme Man was just existing until the ASA(Anti Surreal Agency) broke loose! Help him survive!</p>
+<p class = talktext>Press buttons and make choices! Evade the ASA!</p>
+<p class = asktext> What will you do?</p>
+<div class = box>
+<img class = dacans src = https://media1.tenor.com/m/3KWhUeAX3xAAAAAd/trashcans-ahwatukee.gif alt = TheCans>
+<img class = panik src = https://media1.tenor.com/m/CWB22JTJgEEAAAAC/panik-stonks.gif alt = PaNiK>
+</div>
+<br/>
+<div class = squendy>
+<a class= success href=https://codepen.io/Syed-Muhammad-Zaki-Zaidi/pen/myEZwMx> Click here for this </a>
+  <a class = stevenhetime href=https://codepen.io/Syed-Muhammad-Zaki-Zaidi/pen/raLEwwV> Click here for this</a>
+</body>
