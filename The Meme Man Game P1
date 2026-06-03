@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
   <title>The Meme Man Game</title>
-  <link rel=stylesheet href="/The Meme Man Game CSS">
+  <link rel=stylesheet href="/The Meme Man Game.css">
 </head>
 <body>
    <h1 class = firsttext>The</h1>
