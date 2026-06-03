@@ -1,0 +1,52 @@
+.firsttext{
+  font-size: 40px;
+  text-align: center;
+    color : red; 
+}
+.secondtext{
+font-size: 40px;
+  text-align: center;
+    color : orange;  
+}
+.thirdtext{
+ font-size: 40px;
+  text-align: center;
+    color : #f5f564; 
+}
+.fourthtext{
+  font-size: 40px;
+  text-align: center;
+    color : #05e30c;
+}
+.yaptext {
+  font-size: 20px;
+  text-align: center;
+  color: #1005e3
+}
+.talktext {
+ font-size: 20px;
+  text-align: center;
+  color: #ba05e3
+}
+.asktext {
+  font-size: 20px;
+  text-align: center;
+}
+.dacans {
+  width: 300px  
+}
+.panik {
+  width: 300px;
+}
+.box{
+  text-align: center;
+}
+.squendy {
+  text-align: center;
+}
+.success {
+  color: #D20A2E
+}
+.stevenhetime {
+  color: #00BFFF
+}
