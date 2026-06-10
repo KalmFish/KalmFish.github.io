@@ -1,0 +1,37 @@
+.celebration {
+  text-align: center;
+  font-size: 50px;
+  color: red;
+}
+.yestalk {
+  text-align: center;
+  font-size: 20px;
+  color: orange;
+}
+.probtalk {
+  text-align: center;
+  font-size: 20px;
+  color: #cfd609;
+}
+.nowyap {
+ text-align: center;
+  font-size: 20px;
+  color: green
+}
+.choices {
+  text-align: center;
+}
+.orang {
+  width: 500px;
+  height: 300px;    
+}
+.spongge {
+  width: 500px;
+  height: 300px;
+}
+.obvfail {
+  color: #2CFF05;
+}
+.lesgo {
+  color: #4D0135;
+}
